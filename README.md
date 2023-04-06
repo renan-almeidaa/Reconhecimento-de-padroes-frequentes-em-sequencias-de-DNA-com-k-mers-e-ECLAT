@@ -1,4 +1,4 @@
-# Reconhecimento de padroes frequentes em sequencias de DNA com k mers e ECLAT
+# Reconhecimento de padroes frequentes em sequencias de DNA com k-mers e ECLAT
 
 # 💻 Sobre o projeto
 O projeto se trata da minha tese de conclusão de curso em ciência da computação.
