@@ -28,7 +28,7 @@ A tese foi avaliada pela banca com nota 9.3.
 - [Pandas](https://pandas.pydata.org)
 - [Google Colab](https://colab.research.google.com)
 
-# 🔗 Mais informações, links e artigos
+# 📎 Mais informações, links e artigos
 
 - Para mais detalhes sobre esse projeto, acesse o meu artigo no medium -> [bit.ly/3zFmDkI  ](https://bit.ly/3zFmDkI)
 
