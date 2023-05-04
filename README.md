@@ -30,6 +30,8 @@ A tese foi avaliada pela banca com nota 9.3.
 
 # 📎 Mais informações, links e artigos
 
+- <a href='https://www.linkedin.com/in/renan--gs/'> Meu linkedin </a>
+
 - Para mais detalhes sobre esse projeto, acesse o meu artigo no medium -> [bit.ly/3zFmDkI  ](https://bit.ly/3zFmDkI)
 
 - Como montei a base de dados reais -> [bit.ly/3GqGvM5](http://bit.ly/3GqGvM5)
